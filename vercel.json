@@ -1,0 +1,11 @@
+    {
+  "functions": {
+    "api/index.py": {
+      "runtime": "python3.9",
+      "maxDuration": 300
+    }
+  },
+  "env": {
+    "OPENROUTER_API_KEY": "@openrouter_api_key"
+  }
+}

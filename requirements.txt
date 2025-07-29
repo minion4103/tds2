@@ -2,7 +2,11 @@ fastapi
 uvicorn
 httpx
 python-dotenv
+numpy
 pandas
 matplotlib
-seaborn
+requests
+beautifulsoup4
 duckdb
+seaborn
+scikit-learn
